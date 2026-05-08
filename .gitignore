@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Veri setleri ve modeller
+*.csv
+*.pkl
+
 # Distribution / packaging
 .Python
 build/
