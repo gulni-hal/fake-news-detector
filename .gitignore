@@ -8,7 +8,7 @@ __pycache__/
 
 # Veri setleri ve modeller
 *.csv
-*.pkl
+
 
 # Distribution / packaging
 .Python
